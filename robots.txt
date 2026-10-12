@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hanafi2026.github.io/sitemap.xml
